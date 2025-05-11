@@ -1,0 +1,25 @@
+I’m Chadi, a software engineer turned data scientist, and I’m here to
+get you results.
+That's what I do. it's I’ve done in the past, and it’s what I’ll keep
+doing.
+I've led and collaborated through the entire lifecycle of a data
+science project, where I executed tasks and communicated results
+effectively.
+While doing my master's, I worked at Sanofi and Student World.
+These fast-paced environments required quick data solutions. So
+in the past year, I delivered on efficient ETL, GenAI, and advanced
+analytics.
+- At Sanofi, a major pharmaceutical, I led the development of a data
+driven process that saved over 40 hours per month.
+- While at Student World, a Student Consultancy firm, I built a genAI
+solution for internal use, and savied the admissions team 100 hours
+a month of research.
+- And for my master’s project, I worked in a group to develop
+an advanced analytics model for forecasting energy demand in
+Australia. My role involved data wrangling and scraping over 30,000
+Excel files. Our model outperformed existing ones and earned a high
+distinction.
+All of those projects used different technologies, but what they all
+needed was precision, speed, and strategic thinking. That’s where I
+shine.
+Now enough about me, let's have a chat!
